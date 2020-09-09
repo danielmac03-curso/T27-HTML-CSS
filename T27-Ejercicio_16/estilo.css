@@ -1,0 +1,18 @@
+table{
+    color: #9A3148;
+    text-align: center;
+    background-image: url(fondo.jpg);
+    border: 3px outset ;
+}
+
+.verde {
+    background-color: #669966;
+}
+
+.amarillo {
+    background-color: #FFFF99;
+}
+
+.carne {
+    background-color: #FFCC99;
+}
